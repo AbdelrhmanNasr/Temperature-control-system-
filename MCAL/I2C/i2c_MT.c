@@ -1,9 +1,3 @@
-/*
- * i2c_MT.c
- *
- *  Created on: Sep 16, 2016
- *      Author: Mohamed Taha
- */
 
 #include "i2c_MT.h"
 

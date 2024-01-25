@@ -1,9 +1,4 @@
-/*
- * i2c_MT.h
- *
- *  Created on: Sep 16, 2016
- *      Author: Mohamed Taha
- */
+
 
 #ifndef I2C_MT_H_
 #define I2C_MT_H_
