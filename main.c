@@ -1,9 +1,4 @@
-/*
- * testing every thing.c
- *
- * Created: 1/6/2023 8:51:40 PM
- * Author : Mahmoud Hamed
- */
+
 
 #include "SERVICE/STD_TYPES.h"           // LIBRARY
 
